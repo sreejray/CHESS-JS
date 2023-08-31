@@ -1,7 +1,5 @@
-# Day #49
-
 ### Chess Game (VS Computer)
-In this tutorial ([Open in Youtube](https://youtu.be/XaFYLIEq4E8)), I am gonna showing to you how to code a chess game with javascript. in this javascript chess game you can play with computer, flip board and set position. in this code you will learn to use chessboardjs and chess.js library❗️
+How to code a chess game with javascript. in this javascript chess game you can play with computer, flip board and set position. Also code from chessboardjs and chess.js library has been used❗️
 
 # FEN Notation
 
@@ -48,8 +46,3 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 This FEN represents a specific board position where it's White's turn to move, both sides have the potential to castle kingside and queenside, there's no en passant target square, the halfmove clock is 0, and the fullmove number is 4.
 
 You can use FEN notation to record and share specific chess positions and use them for various purposes, including setting up custom positions for analysis or practice.
-
-# Screenshot
-Here we have project screenshot :
-
-![screenshot](screenshot.jpg)
